@@ -1,7 +1,7 @@
 ### Hello, I'm Lilian Assunção! 😊👋 
 
 
-- 📚 I’m currently learning: MySQL, Spring Boot and Docker (at Generation Brasil Bootcamp)
+- 📚 I’m currently learning: MySQL and Spring Boot (at Generation Brasil Bootcamp)
 - 😄 Pronouns: She/Her
 
 
@@ -14,7 +14,6 @@
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-  <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 
   
   
