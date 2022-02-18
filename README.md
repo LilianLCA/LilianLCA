@@ -1,8 +1,8 @@
 ### Hello, I'm Lilian Assunção! 😊👋 
 
 
-- 📚 I’m currently learning: MySQL and Spring Boot (at Generation Brasil Bootcamp)
-- 😄 Pronouns: She/Her
+- 📚 I’m currently learning: HTML5, CSS3, JS, AngularJs and Bootstrap (at Generation Brasil Bootcamp).
+- 😄 Pronouns: She/Her.
 
 
 <div style="display: inline_block"><br>
@@ -14,6 +14,10 @@
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+  <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img  align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
+
 
   
   
